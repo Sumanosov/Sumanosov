@@ -1,4 +1,5 @@
-### 👋 Hi, I’m @Sumanosov
+### Hi there 👋
+
 ## 🌱 I’m currently learning mobile iOS dev
 
 ## 📫 How to reach me:
